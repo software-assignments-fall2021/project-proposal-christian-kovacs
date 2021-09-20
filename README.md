@@ -27,7 +27,7 @@ These goals should be something that can be divided up into smaller tasks (which
 This student should also use a calendar for organizing their time (or any other way the application can know when they are busy).
 
 
-## Feature List: (This is a rough outline, can be updated aswe progress)
+## Feature List: (This is a rough outline, can be updated as we progress)
 1. The user will create a goal and go through a process to determine the scope of each achievement.
 2. Then the program asks how to break it down in to small, incremental tasks and assign a unit of time for each micro task and macro task. ( Example: User states: I want to read a 400 page book in the next month, this averages to around 13 and a third pages a day.  This example is simple but we can explore more uses)
 3. Import calendar from Apple or Google and add preferences (Example: I prefer to go to the gym in the morning and do my reading in the night time or afternoon.)
