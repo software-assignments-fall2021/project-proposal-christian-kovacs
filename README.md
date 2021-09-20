@@ -36,7 +36,7 @@ This student should also use a calendar for organizing their time (or any other 
 5. If goal is failed, ask the user to adjust goals. 
 6. Using map api to track gym use, library use, class etc. and award points for entering facilities, since usually entering the gym is the hard part, not working once you are there.  Could be used to track chores ( laundromat, grocery store, etc) as well as personal growth buildings (library, gym, classroom, bookshop, healthy restaurant)
 
-##Scope:
+## Scope:
 An important aspect of the success of retaining users of this app will be if they feel rewarded using it.  A good UX/UI must be designed or else nobody would want to use the web app or mobile app, and the both the desktop and mobile applications must be equally usable, not biased towards just one.  This poses a challenge as we are not design students so we are going to have to learn as we go how to create not just a user interface, but one that encourages users to frequently return.
 
 Also, we will need to implement a complex point or progress system, and experiment with what works and does not.  We want the user to feel that they are working towards a larger goal, while still being motivated to work on the small goals.  This will require research on what makes a gamification system work, and how to implement it.
